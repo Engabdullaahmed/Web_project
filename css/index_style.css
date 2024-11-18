@@ -452,11 +452,7 @@ width: 100% !important;
     box-shadow: 0 0 0.2rem .15rem rgba(220, 53, 69,0.7) !important;
     border-color: tomato;
 }
-.line{
-    background-color: tomato;
-    height: 5px;
-    width: 75px;
-    margin: auto;
+form .line{
     transform: translateX(-80%);
 }
 .social a{
